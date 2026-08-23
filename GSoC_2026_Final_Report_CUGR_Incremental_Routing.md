@@ -235,55 +235,55 @@ The following charts plot every one of the 65 designs (FastRoute in blue, CUGR i
 
 **Figure 1. Finish-stage setup worst slack (WS), FastRoute vs. CUGR, all 65 designs.**
 
-![Finish stage setup worst slack](images/finish__timing__setup__ws.png)
+![Finish stage setup worst slack](finish__timing__setup__ws.png)
 
 **Figure 2. Finish-stage setup total negative slack (TNS), FastRoute vs. CUGR.**
 
-![Finish stage setup TNS](images/finish__timing__setup__tns.png)
+![Finish stage setup TNS](finish__timing__setup__tns.png)
 
 **Figure 3. Finish-stage hold worst slack (WS), FastRoute vs. CUGR.**
 
-![Finish stage hold worst slack](images/finish__timing__hold__ws.png)
+![Finish stage hold worst slack](finish__timing__hold__ws.png)
 
 **Figure 4. Finish-stage hold total negative slack (TNS), FastRoute vs. CUGR.**
 
-![Finish stage hold TNS](images/finish__timing__hold__tns.png)
+![Finish stage hold TNS](finish__timing__hold__tns.png)
 
 **Figure 5. Finish-stage Fmax, FastRoute vs. CUGR. Near-equivalent outside the gt2n outlier.**
 
-![Finish stage Fmax](images/finish__timing__fmax.png)
+![Finish stage Fmax](finish__timing__fmax.png)
 
 **Figure 6. Finish-stage total power, FastRoute vs. CUGR.**
 
-![Finish stage total power](images/finish__power__total.png)
+![Finish stage total power](finish__power__total.png)
 
 **Figure 7. Finish-stage internal power, FastRoute vs. CUGR.**
 
-![Finish stage internal power](images/finish__power__internal__total.png)
+![Finish stage internal power](finish__power__internal__total.png)
 
 **Figure 8. Finish-stage switching power, FastRoute vs. CUGR.**
 
-![Finish stage switching power](images/finish__power__switching__total.png)
+![Finish stage switching power](finish__power__switching__total.png)
 
 **Figure 9. Finish-stage total instance area, FastRoute vs. CUGR.**
 
-![Finish stage instance area](images/finish__design__instance__area.png)
+![Finish stage instance area](finish__design__instance__area.png)
 
 **Figure 10. Finish-stage placement utilization, FastRoute vs. CUGR.**
 
-![Finish stage instance utilization](images/finish__design__instance__utilization.png)
+![Finish stage instance utilization](finish__design__instance__utilization.png)
 
 **Figure 11. Timing-repair buffer instance count, FastRoute vs. CUGR.**
 
-![Timing repair buffer count](images/finish__design__instance__count__class_timing_repair_buffer.png)
+![Timing repair buffer count](finish__design__instance__count__class_timing_repair_buffer.png)
 
 **Figure 12. Timing-repair buffer instance area, FastRoute vs. CUGR.**
 
-![Timing repair buffer area](images/finish__design__instance__area__class_timing_repair_buffer.png)
+![Timing repair buffer area](finish__design__instance__area__class_timing_repair_buffer.png)
 
 **Figure 13. Clock buffer instance count, FastRoute vs. CUGR.**
 
-![Clock buffer count](images/finish__design__instance__count__class_clock_buffer.png)
+![Clock buffer count](finish__design__instance__count__class_clock_buffer.png)
 
 ---
 
