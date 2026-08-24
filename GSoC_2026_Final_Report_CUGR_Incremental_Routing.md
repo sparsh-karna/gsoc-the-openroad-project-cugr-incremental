@@ -3,11 +3,17 @@
 ## Incremental Global Routing on CUGR
 
 **Organization:** OpenROAD / FOSSi Foundation
+
 **Contributor:** Sparsh Karna (github.com/sparsh-karna)
+
 **Mentor:** Eder Monteiro
+
 **Project size:** Large (350 hours)
+
 **Submission date:** August 24, 2026
+
 **Repository:** The-OpenROAD-Project/OpenROAD
+
 **Fork:** github.com/sparsh-karna/OpenROAD
 
 ---
